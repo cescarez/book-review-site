@@ -1,10 +1,29 @@
+@font-face {
+    font-family: "Merriweather";
+    src: url("fonts/Merriweather/*");
+}
+
 body {
     font-variant: all-petite-caps;
     text-align: center;
+    font-family: Merriweather;
 }
+
+header {
+
+}
+
+footer {
+
+}
+
 
 h1 {
     text-align: center;
+}
+
+a:hover {
+   background-color: lightblue;
 }
 
 nav table {
@@ -26,6 +45,18 @@ aside {
     width: 30%;
 }
 
+article {
+    background-color: pink;
+}
+
 section {
     width: 70%;
+}
+
+ul {
+    list-style: none;
+}
+
+.book_title {
+    font-style: italic;
 }

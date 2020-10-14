@@ -1,3 +1,5 @@
-#contact_info {
+/* specifications state all content (header, footer, and main content) should be centered; no CSS written as inherited styles are centered.*/
 
+#contact_info img {
+    border-radius: 25px;
 }

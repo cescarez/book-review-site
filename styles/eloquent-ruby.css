@@ -1,0 +1,20 @@
+section.review {
+    background-color: lightgray;
+}
+
+section.review p {
+    line-height: 150%
+}
+
+.review_title {
+    font-weight: bold;
+    font-size: 16;
+}
+
+.reviewer_name {
+    font-weight: bold;
+}
+
+.review_date {
+    font-style: italic;
+}
