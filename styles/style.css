@@ -1,5 +1,6 @@
 body {
     font-variant: all-petite-caps;
+    text-align: center;
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
 }
 
 nav table {
-    width: 85%;
+    width: 100%;
     border: 1px solid black;
     column-width: 33%;
     text-align: center;
@@ -19,4 +20,12 @@ nav table {
 
 nav li {
     font-size: 12px;
+}
+
+aside {
+    width: 30%;
+}
+
+section {
+    width: 70%;
 }
