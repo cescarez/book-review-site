@@ -1,0 +1,22 @@
+body {
+    font-variant: all-petite-caps;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav table {
+    width: 85%;
+    border: 1px solid black;
+    column-width: 33%;
+    text-align: center;
+}
+
+#nav_current {
+    font-weight: 700;
+}
+
+nav li {
+    font-size: 12px;
+}
